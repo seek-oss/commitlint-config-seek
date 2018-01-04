@@ -15,7 +15,9 @@ You can set this up [a few different ways](https://github.com/marionebl/commitli
 ```js
 {
   "commitlint": {
-    "extends": "commitlint-config-seek"
+    "extends": [
+      "seek"
+    ]
   }
 }
 ```
