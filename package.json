@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seek-oss/commitlint-config-seek.git"
+    "url": "https://github.com/seek-oss/commitlint-config-seek.git"
   },
   "author": "Seek",
   "license": "MIT",
